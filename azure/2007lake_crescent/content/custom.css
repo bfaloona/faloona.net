@@ -1,0 +1,118 @@
+#previewFull {
+  background-color: #404040 !important;
+  width: 482px !important;
+  color: inherit;
+}
+
+#liveUpdateContactInfo {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+.borderRightDotted {
+  border-right: 1px dotted #565656 !important;
+}
+
+.logo {
+  display: none !important;
+}
+
+#liveUpdateCollectionDescription {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+.detailNav, .detailLinks, #detailCaption, #detailTitle {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+.emptyThumbnail {
+  background-color: #404040 !important;
+  color: inherit;
+}
+
+.thumbnail {
+  background-color: #404040 !important;
+  color: inherit;
+}
+
+.previewFullImage {
+  height: 458px !important;
+  width: 482px !important;
+}
+
+#stage2 {
+  width: 484px !important;
+}
+
+.itemNumber {
+  display: inherit !important;
+  color: #7B7B7B !important;
+  background-color: inherit;
+}
+
+#content {
+  background-color: #292929 !important;
+  color: inherit;
+}
+
+.borderTopLeft {
+  border-top: 1px solid #565656 !important;
+  border-left: 1px solid #565656 !important;
+}
+
+#stage {
+  width: 484px !important;
+}
+
+.caption {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+#wrapper2 {
+  width: 484px !important;
+}
+
+.borderBottomRight {
+  border-right: 1px solid #565656 !important;
+  border-bottom: 1px solid #565656 !important;
+}
+
+#wrapper {
+  width: 484px !important;
+}
+
+#liveUpdateCollectionTitle {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+.paginationLinks, .pagination, #liveUpdatePagination {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+.selectedThumbnail, .thumbnail:hover {
+  background-color: #302D2C !important;
+  color: inherit;
+}
+
+#liveUpdateSiteTitle {
+  color: #B3B3B3 !important;
+  background-color: inherit;
+}
+
+.borderBottom {
+  border-bottom: 1px solid #565656 !important;
+}
+
+.borderRight {
+  border-right: 1px solid #565656 !important;
+}
+
+body {
+  background-color: #292929 !important;
+  color: inherit;
+}

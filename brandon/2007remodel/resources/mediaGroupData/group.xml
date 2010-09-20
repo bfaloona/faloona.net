@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<mediaGroup>
+<amgVersion version="1.3" />
+<groupInfo>
+<author></author>
+<authorApplication>Adobe Lightroom 1.0 Beta 4</authorApplication>
+<creationDate>06/13/07, 07:31:21 AM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3" />
+<groupData groupID="" groupName="" />
+<authorID></authorID>
+<custom>
+<groupTitle>kristen &amp; brandon</groupTitle>
+<groupDescription>Web Photo Gallery created by Adobe Lightroom.</groupDescription>
+<siteTitle>Remodel</siteTitle>
+<contactName></contactName>
+<contactEmail></contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize size="thumb" maxwidth="48" maxheight="48" />
+<imageSize size="small" maxwidth="300" maxheight="200" />
+<imageSize size="medium" maxwidth="450" maxheight="300" />
+<imageSize size="large" maxwidth="800" maxheight="450" />
+</sizes>
+<media totalGallerySize="42">
+<item>
+<title>May 18, 2007</title>
+<description>Living Room, Before</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B0CEAB99-B0D0-49A2-82D0-E0D0BEF06FB9" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2346.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2346.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2346.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2346.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 18, 2007</title>
+<description>Living Room from the front hall, Before.</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BC1CA583-BAD5-44CE-9808-913783498961" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2349.jpg" height="450" width="300" />
+<rendition size="medium" src="bin/images/medium/IMG_2349.jpg" height="300" width="200" />
+<rendition size="small" src="bin/images/small/IMG_2349.jpg" height="200" width="133" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2349.jpg" height="48" width="32" />
+</renditions>
+</item>
+<item>
+<title>May 21, 2007</title>
+<description>The living room just got smaller</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="31B279AF-8CA4-4A8D-AAC1-E18A5557E939" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2488.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2488.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2488.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2488.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 21, 2007</title>
+<description>Dust barrier, v1</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3F56CA9A-69E7-48EC-AEA1-D766EAFC1DEF" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2490.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2490.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2490.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2490.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 21, 2007</title>
+<description>East eaves, before</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BFAF3C9A-3D65-4C9B-B8E1-F76C00742247" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2491.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2491.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2491.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2491.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 21, 2007</title>
+<description>Pull down stair case</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C9E3410C-6E63-4149-A0B9-07C73AD92D07" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2495.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2495.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2495.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2495.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 21, 2007</title>
+<description>West eaves, before</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F320FE8E-8A03-49EE-BFF7-28DA0326C0B3" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2496.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2496.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2496.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2496.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 21, 2007</title>
+<description>Center area, before</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F3B91995-1F0D-4378-9FAE-EEF0C6CF9DBC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2498.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2498.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2498.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2498.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 21, 2007</title>
+<description>Work begins!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="813A3451-B08E-4AE6-84AE-509CCE7DAE1D" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2503.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2503.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2503.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2503.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 22, 2007</title>
+<description>Framers don't waste much time!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6C6B9B69-E621-4D69-8EE1-7A5E3042BA62" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2505.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2505.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2505.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2505.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 22, 2007</title>
+<description>pocket door framing</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7B03BDA5-AE1E-453A-8919-AB7624331391" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2508.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2508.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2508.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2508.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 22, 2007</title>
+<description>West pocket doors</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3860439D-FB78-446B-8A13-06BD620A7CF2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2512.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2512.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2512.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2512.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 22, 2007</title>
+<description>It's a mess up here</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="474A78B9-0B2C-433C-8B34-28DAB68C91E2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2513.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2513.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2513.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2513.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 22, 2007</title>
+<description>Roof ties, before</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="07F7492E-40F3-4722-9AE5-F6A06F72A87E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2514.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2514.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2514.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2514.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 22, 2007</title>
+<description>Stairs... Before!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1B78B983-A7D6-42DC-B430-AD4A5A9F80A6" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2515.jpg" height="450" width="300" />
+<rendition size="medium" src="bin/images/medium/IMG_2515.jpg" height="300" width="200" />
+<rendition size="small" src="bin/images/small/IMG_2515.jpg" height="200" width="133" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2515.jpg" height="48" width="32" />
+</renditions>
+</item>
+<item>
+<title>May 22, 2007</title>
+<description>Dust barrier, v2</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="AA3BA02F-0909-475A-A359-D14AE0F7544D" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2518.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2518.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2518.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2518.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 24, 2007</title>
+<description>The window goes... HERE!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BF15CA8A-66DA-4CE0-AD84-380F13B72498" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2533.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2533.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2533.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2533.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 24, 2007</title>
+<description>No window yet, but it got so hot the framers cut a hole!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="10D07495-4CFC-4979-84F2-99061EC40EE4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2535.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2535.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2535.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2535.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 24, 2007</title>
+<description>It's a Kristen sized window.</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="CB22DF2C-621B-4AE2-990A-486716C94E9D" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2552.jpg" height="450" width="300" />
+<rendition size="medium" src="bin/images/medium/IMG_2552.jpg" height="300" width="200" />
+<rendition size="small" src="bin/images/small/IMG_2552.jpg" height="200" width="133" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2552.jpg" height="48" width="32" />
+</renditions>
+</item>
+<item>
+<title>May 24, 2007</title>
+<description>Stairs... er... Hole</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="AFEF10BF-8C90-417C-87AF-B78B03DC86E6" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2584.jpg" height="450" width="300" />
+<rendition size="medium" src="bin/images/medium/IMG_2584.jpg" height="300" width="200" />
+<rendition size="small" src="bin/images/small/IMG_2584.jpg" height="200" width="133" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2584.jpg" height="48" width="32" />
+</renditions>
+</item>
+<item>
+<title>May 24, 2007</title>
+<description>Big hole</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3C74DD6D-F69C-4762-B0FF-03416A869D04" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2589.jpg" height="450" width="300" />
+<rendition size="medium" src="bin/images/medium/IMG_2589.jpg" height="300" width="200" />
+<rendition size="small" src="bin/images/small/IMG_2589.jpg" height="200" width="133" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2589.jpg" height="48" width="32" />
+</renditions>
+</item>
+<item>
+<title>May 24, 2007</title>
+<description>The entire entry way was consumed by the dust barrier!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="68DBE810-1DB7-4361-88D9-26CC893C7B15" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2594.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_2594.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_2594.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2594.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>April 06, 2006</title>
+<description>The pulll down stairs in action</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1C93EA29-9F44-4D38-A3F1-B0E9216E669E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSCF0086.jpg" height="450" width="600" />
+<rendition size="medium" src="bin/images/medium/DSCF0086.jpg" height="300" width="400" />
+<rendition size="small" src="bin/images/small/DSCF0086.jpg" height="200" width="266" />
+<rendition size="thumb" src="bin/images/thumb/DSCF0086.jpg" height="36" width="48" />
+</renditions>
+</item>
+<item>
+<title>April 06, 2006</title>
+<description>Before it was even our home</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="488FCFA1-58BB-4697-8AAE-37E527C67E13" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/DSCF0098.jpg" height="450" width="600" />
+<rendition size="medium" src="bin/images/medium/DSCF0098.jpg" height="300" width="400" />
+<rendition size="small" src="bin/images/small/DSCF0098.jpg" height="200" width="266" />
+<rendition size="thumb" src="bin/images/thumb/DSCF0098.jpg" height="36" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 29, 2007</title>
+<description>rough stairs from above</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7FDD3810-7596-4721-8426-9490A06B6475" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3238.jpg" height="450" width="300" />
+<rendition size="medium" src="bin/images/medium/IMG_3238.jpg" height="300" width="200" />
+<rendition size="small" src="bin/images/small/IMG_3238.jpg" height="200" width="133" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3238.jpg" height="48" width="32" />
+</renditions>
+</item>
+<item>
+<title>May 29, 2007</title>
+<description>rough stairs from below</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3EFCEAF9-DE54-4B68-8C48-3DAED218A30A" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3241.jpg" height="450" width="300" />
+<rendition size="medium" src="bin/images/medium/IMG_3241.jpg" height="300" width="200" />
+<rendition size="small" src="bin/images/small/IMG_3241.jpg" height="200" width="133" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3241.jpg" height="48" width="32" />
+</renditions>
+</item>
+<item>
+<title>May 30, 2007</title>
+<description>roof ties are fewer and higher</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C359179D-ED6F-42B6-8370-8A3468AEC73C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3246.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_3246.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_3246.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3246.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>May 30, 2007</title>
+<description>improved roof ties</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B3DA53CB-6DE6-4732-87F4-948B508CAA21" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3247.jpg" height="450" width="300" />
+<rendition size="medium" src="bin/images/medium/IMG_3247.jpg" height="300" width="200" />
+<rendition size="small" src="bin/images/small/IMG_3247.jpg" height="200" width="133" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3247.jpg" height="48" width="32" />
+</renditions>
+</item>
+<item>
+<title>June 01, 2007</title>
+<description>LIGHT!!!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="87EDAC3E-340E-4EBC-BD8C-38F480B1DC8D" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3255.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_3255.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_3255.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3255.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>June 01, 2007</title>
+<description>Standing (on the floor) in the boys bedroom!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="58552CE6-64BB-4160-B915-2D92DDD6DAEC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3259.jpg" height="450" width="300" />
+<rendition size="medium" src="bin/images/medium/IMG_3259.jpg" height="300" width="200" />
+<rendition size="small" src="bin/images/small/IMG_3259.jpg" height="200" width="133" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3259.jpg" height="48" width="32" />
+</renditions>
+</item>
+<item>
+<title>June 01, 2007</title>
+<description>No turning back!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5029EEA1-8BF3-4CA2-B8C4-178AF38773A8" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3260.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_3260.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_3260.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3260.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>June 01, 2007</title>
+<description>Hey, there's a guy on the roof with a SAW!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1E7E2698-9A09-4A98-B4EF-259B4EB4BEB4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3263.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_3263.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_3263.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3263.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>June 01, 2007</title>
+<description>Skylights installed</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4718AFA1-6119-4978-B0E5-5F1110CF8E3E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3266.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_3266.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_3266.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3266.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>June 01, 2007</title>
+<description>Where's all that light coming from? :)</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="90450178-6B03-4179-9FBD-202B9BDF17AE" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3267.jpg" height="450" width="300" />
+<rendition size="medium" src="bin/images/medium/IMG_3267.jpg" height="300" width="200" />
+<rendition size="small" src="bin/images/small/IMG_3267.jpg" height="200" width="133" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3267.jpg" height="48" width="32" />
+</renditions>
+</item>
+<item>
+<title>June 01, 2007</title>
+<description>Skylights over the stairs</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6DFE8D93-93F5-4237-8A3B-E9DDD4833DF6" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3268.jpg" height="450" width="300" />
+<rendition size="medium" src="bin/images/medium/IMG_3268.jpg" height="300" width="200" />
+<rendition size="small" src="bin/images/small/IMG_3268.jpg" height="200" width="133" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3268.jpg" height="48" width="32" />
+</renditions>
+</item>
+<item>
+<title>June 01, 2007</title>
+<description>Eaves skylights</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8EFEF8F0-EED7-4379-A9A8-521A92206F4B" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3272.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_3272.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_3272.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3272.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>June 01, 2007</title>
+<description>Lighting</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8774551D-3930-4FA0-BC55-052C4D135250" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3276.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_3276.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_3276.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3276.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>June 05, 2007</title>
+<description>The bathroom</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="16106325-763E-4CD1-B55C-CB83BC2A74B2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3341.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_3341.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_3341.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3341.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>June 02, 2007</title>
+<description>The garage under our house</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A073B012-DF84-4C20-B5A5-6CC5AFCA6420" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3289.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_3289.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_3289.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3289.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>June 03, 2007</title>
+<description>Morning sun through the skylight</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BF80EBF5-8B3F-4C75-8E6C-B326EE04FE0D" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3292.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_3292.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_3292.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3292.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>June 02, 2007</title>
+<description>The view from the master bedroom at night</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="84B2D4E3-1A7D-4BB5-B8B0-29BCB7258C73" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3281.jpg" height="450" width="675" />
+<rendition size="medium" src="bin/images/medium/IMG_3281.jpg" height="300" width="450" />
+<rendition size="small" src="bin/images/small/IMG_3281.jpg" height="200" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3281.jpg" height="32" width="48" />
+</renditions>
+</item>
+<item>
+<title>June 04, 2007</title>
+<description>Panorama of the view from upstairs</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0A424A01-31AF-4F39-AF83-6AE5C77E1714" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/panorama_2.jpg" height="240" width="800" />
+<rendition size="medium" src="bin/images/medium/panorama_2.jpg" height="135" width="450" />
+<rendition size="small" src="bin/images/small/panorama_2.jpg" height="90" width="300" />
+<rendition size="thumb" src="bin/images/thumb/panorama_2.jpg" height="14" width="48" />
+</renditions>
+</item>
+</media>
+</mediaGroup>

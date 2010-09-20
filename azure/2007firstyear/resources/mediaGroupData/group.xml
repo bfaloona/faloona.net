@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<mediaGroup>
+<amgVersion version="1.3" />
+<groupInfo>
+<author></author>
+<authorApplication>Adobe Lightroom 1.0 Beta 4</authorApplication>
+<creationDate>03/27/07, 01:08:13 AM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3" />
+<groupData groupID="" groupName="" />
+<authorID></authorID>
+<custom>
+<groupTitle>(click white "button" at bottom to view slideshow)</groupTitle>
+<groupDescription>Web Photo Gallery created by Adobe Lightroom.</groupDescription>
+<siteTitle>Azure's First Year</siteTitle>
+<contactName></contactName>
+<contactEmail></contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize size="thumb" maxwidth="96" maxheight="96" />
+<imageSize size="small" maxwidth="800" maxheight="450" />
+<imageSize size="medium" maxwidth="1040" maxheight="520" />
+<imageSize size="large" maxwidth="1150" maxheight="650" />
+</sizes>
+<media totalGallerySize="26">
+<item>
+<title>February 20, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D0972566-9171-4C71-84A6-C4AF2C835FA8" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/belly.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/belly.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/belly.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/belly.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>March 06, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BB5055CD-7C85-4AD1-8F3B-DD18D9FFB65A" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/threeOfUs_hospital.jpg" height="650" width="711" />
+<rendition size="medium" src="bin/images/medium/threeOfUs_hospital.jpg" height="520" width="568" />
+<rendition size="small" src="bin/images/small/threeOfUs_hospital.jpg" height="450" width="492" />
+<rendition size="thumb" src="bin/images/thumb/threeOfUs_hospital.jpg" height="87" width="96" />
+</renditions>
+</item>
+<item>
+<title>March 10, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DFB5F82D-CF54-4B8C-B555-4014DA9A08C3" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/burrito_baby.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/burrito_baby.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/burrito_baby.jpg" height="450" width="337" />
+<rendition size="thumb" src="bin/images/thumb/burrito_baby.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title>March 12, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0B7E57F9-4202-475A-968F-D83057D52A17" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/2ndweek_azure_gaze.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/2ndweek_azure_gaze.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/2ndweek_azure_gaze.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/2ndweek_azure_gaze.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>March 14, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1FD0C919-FE20-4233-9CA3-CFC7FEC4AC16" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/2ndWeek_brandon_azure.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/2ndWeek_brandon_azure.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/2ndWeek_brandon_azure.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/2ndWeek_brandon_azure.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>April 02, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E4E9D4CF-12ED-4128-948E-43E51127ADFC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/2ndMonth_azure_grass.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/2ndMonth_azure_grass.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/2ndMonth_azure_grass.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/2ndMonth_azure_grass.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>April 02, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1E1010C0-B5A1-410F-88E5-4F30B17099E2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/2ndMonth_brandon_azure.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/2ndMonth_brandon_azure.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/2ndMonth_brandon_azure.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/2ndMonth_brandon_azure.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 06, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="21A2F4C0-94A2-489B-9A4F-1023201F4BB7" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/3rdMonth_laughing.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/3rdMonth_laughing.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/3rdMonth_laughing.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/3rdMonth_laughing.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 24, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2245EA63-2E94-4A72-9E4A-33F28F128E4B" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/3rdMonth_azure_che.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/3rdMonth_azure_che.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/3rdMonth_azure_che.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/3rdMonth_azure_che.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 29, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3BBD0E97-C86B-424C-B91D-CE7EACEED28B" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/3rdMonth_brandon_azure_kiss.jpg" height="650" width="927" />
+<rendition size="medium" src="bin/images/medium/3rdMonth_brandon_azure_kiss.jpg" height="520" width="742" />
+<rendition size="small" src="bin/images/small/3rdMonth_brandon_azure_kiss.jpg" height="450" width="642" />
+<rendition size="thumb" src="bin/images/thumb/3rdMonth_brandon_azure_kiss.jpg" height="67" width="96" />
+</renditions>
+</item>
+<item>
+<title>July 23, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="016F71F2-AD42-4684-A870-38052E73DB17" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/5thMonth_huh.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/5thMonth_huh.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/5thMonth_huh.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/5thMonth_huh.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>August 08, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A1527A33-E251-4E97-96AE-778656AD6D21" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/6thMonth_mirror.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/6thMonth_mirror.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/6thMonth_mirror.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/6thMonth_mirror.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>August 12, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="84411BF2-307D-45E6-AC4E-F442CC508B8D" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/6thMonth_shopping_cart.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/6thMonth_shopping_cart.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/6thMonth_shopping_cart.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/6thMonth_shopping_cart.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>September 02, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D016A211-D25B-47B8-893D-C26A4539C0C2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/7thMonth_swim.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/7thMonth_swim.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/7thMonth_swim.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/7thMonth_swim.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>September 04, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="52AA0895-D680-4C70-A8C4-8602865C4AAD" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/7thMonth_first_bite.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/7thMonth_first_bite.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/7thMonth_first_bite.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/7thMonth_first_bite.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>October 31, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8C6B5AC0-04ED-44A9-B8EC-F78A31DCF2E4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/8thMonth_holloween.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/8thMonth_holloween.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/8thMonth_holloween.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/8thMonth_holloween.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>November 23, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FF4E748E-DE13-4A7F-93EC-4AD14535B6FA" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/9thMonth_azure_betweentheears.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/9thMonth_azure_betweentheears.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/9thMonth_azure_betweentheears.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/9thMonth_azure_betweentheears.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>November 24, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3B898210-FCDA-4903-BDC0-B7694D2FC3DE" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/10thMonth_tessa.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/10thMonth_tessa.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/10thMonth_tessa.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/10thMonth_tessa.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>November 26, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DB26CF2B-7090-49C2-A456-C50BCD8C6C6C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/9thMonth_azure_laughing_alt.jpg" height="650" width="519" />
+<rendition size="medium" src="bin/images/medium/9thMonth_azure_laughing_alt.jpg" height="520" width="415" />
+<rendition size="small" src="bin/images/small/9thMonth_azure_laughing_alt.jpg" height="450" width="359" />
+<rendition size="thumb" src="bin/images/thumb/9thMonth_azure_laughing_alt.jpg" height="96" width="76" />
+</renditions>
+</item>
+<item>
+<title>November 29, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="264D5AE3-7542-44D0-A6D3-171AA7B131FF" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/10thMonth_eat.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/10thMonth_eat.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/10thMonth_eat.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/10thMonth_eat.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>January 11, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="AB9D909B-B04F-4AD6-8862-BEC02582FD77" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/11thMonth_bill_azure_snow.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/11thMonth_bill_azure_snow.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/11thMonth_bill_azure_snow.jpg" height="450" width="337" />
+<rendition size="thumb" src="bin/images/thumb/11thMonth_bill_azure_snow.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title>December 25, 2006</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6C184649-29AD-422B-B303-1375B2B83E45" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/10thMonth_xmas.jpg" height="650" width="487" />
+<rendition size="medium" src="bin/images/medium/10thMonth_xmas.jpg" height="520" width="390" />
+<rendition size="small" src="bin/images/small/10thMonth_xmas.jpg" height="450" width="337" />
+<rendition size="thumb" src="bin/images/thumb/10thMonth_xmas.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title>February 11, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E177821E-8BBD-4421-8B43-DE3A321A1A12" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/12thMonth_walk.jpg" height="650" width="433" />
+<rendition size="medium" src="bin/images/medium/12thMonth_walk.jpg" height="520" width="346" />
+<rendition size="small" src="bin/images/small/12thMonth_walk.jpg" height="450" width="300" />
+<rendition size="thumb" src="bin/images/thumb/12thMonth_walk.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title>February 11, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B6A7AA46-8D1D-41BA-92FB-D8999468762F" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/12thMonth_bath.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/12thMonth_bath.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/12thMonth_bath.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/12thMonth_bath.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>February 18, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="32DA12F9-75B2-48F1-995B-8C3B5C16257E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/Back_on_the_beach_family_photo_copy.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/Back_on_the_beach_family_photo_copy.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/Back_on_the_beach_family_photo_copy.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/Back_on_the_beach_family_photo_copy.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>February 03, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6D678891-6303-4658-B872-18103E1CB579" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/11thMonth_sleeping_with_brother.jpg" height="650" width="866" />
+<rendition size="medium" src="bin/images/medium/11thMonth_sleeping_with_brother.jpg" height="520" width="693" />
+<rendition size="small" src="bin/images/small/11thMonth_sleeping_with_brother.jpg" height="450" width="600" />
+<rendition size="thumb" src="bin/images/thumb/11thMonth_sleeping_with_brother.jpg" height="72" width="96" />
+</renditions>
+</item>
+</media>
+</mediaGroup>

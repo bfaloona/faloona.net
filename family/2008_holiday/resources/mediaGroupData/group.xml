@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<mediaGroup>
+<amgVersion version="1.3" />
+<groupInfo>
+<author></author>
+<authorApplication>Adobe Lightroom 1.0</authorApplication>
+<creationDate>12/16/08, 11:02:07 PM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3" />
+<groupData groupID="" groupName="" />
+<authorID></authorID>
+<custom>
+<groupTitle>kristen, brandon, azure &amp; theo</groupTitle>
+<groupDescription>May 2009 be splendid for you and yours!</groupDescription>
+<siteTitle>Walsh / Faloona 2008</siteTitle>
+<contactName></contactName>
+<contactEmail></contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize size="thumb" maxwidth="96" maxheight="96" />
+<imageSize size="small" maxwidth="1040" maxheight="520" />
+<imageSize size="medium" maxwidth="1150" maxheight="650" />
+<imageSize size="large" maxwidth="1275" maxheight="850" />
+</sizes>
+<media totalGallerySize="99">
+<item>
+<title>Azure and Theo 2008</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="52A1F6A8-2A8C-4FFC-95F6-1FCE86F526B9" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9167.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_9167.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_9167.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9167.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>All Bundled Up!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E11DBD85-53AA-471D-9980-BA85DAAB7922" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9383.jpg" height="850" width="947" />
+<rendition size="medium" src="bin/images/medium/IMG_9383.jpg" height="650" width="724" />
+<rendition size="small" src="bin/images/small/IMG_9383.jpg" height="520" width="580" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9383.jpg" height="86" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Grandma Kate's visit in January</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DF7A0C37-9915-4BA7-A9F3-13F730875143" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9215.jpg" height="850" width="567" />
+<rendition size="medium" src="bin/images/medium/IMG_9215.jpg" height="650" width="433" />
+<rendition size="small" src="bin/images/small/IMG_9215.jpg" height="520" width="347" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9215.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>When Dallas reads he makes up fun stories</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B911E100-3BC4-4646-B49B-0455C577993D" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9184.jpg" height="850" width="1053" />
+<rendition size="medium" src="bin/images/medium/IMG_9184.jpg" height="650" width="806" />
+<rendition size="small" src="bin/images/small/IMG_9184.jpg" height="520" width="644" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9184.jpg" height="77" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Jumping</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="26AD4EC4-CB0E-497E-954D-4895A24056D0" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9621.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_9621.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_9621.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9621.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>... and Running</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="89EDF4B1-CD8A-4506-AA82-7D07441C7E5C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9642.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_9642.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_9642.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9642.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Valentine's Day</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="19A0A7AE-866E-43C7-B5B5-FFB3634B7050" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9365.jpg" height="850" width="1112" />
+<rendition size="medium" src="bin/images/medium/IMG_9365.jpg" height="650" width="851" />
+<rendition size="small" src="bin/images/small/IMG_9365.jpg" height="520" width="681" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9365.jpg" height="73" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Azure Turns 2!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="756E0DD7-88DF-48D9-9D9A-F17890EE3A8C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9800.jpg" height="850" width="849" />
+<rendition size="medium" src="bin/images/medium/IMG_9800.jpg" height="650" width="649" />
+<rendition size="small" src="bin/images/small/IMG_9800.jpg" height="520" width="519" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9800.jpg" height="96" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>His birthday party is all about puzzles</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="32AE8FFC-638E-4E78-9AFB-A92401023F1F" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9710.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_9710.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_9710.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9710.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Theo's First Bites!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8ABFC1F5-32F9-4CFB-9001-858F909A225E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9750.jpg" height="850" width="1077" />
+<rendition size="medium" src="bin/images/medium/IMG_9750.jpg" height="650" width="824" />
+<rendition size="small" src="bin/images/small/IMG_9750.jpg" height="520" width="659" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9750.jpg" height="76" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Daddy's 40!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0B5F9A6A-203F-4693-875A-3434E2DC0CA2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9944.jpg" height="850" width="1077" />
+<rendition size="medium" src="bin/images/medium/IMG_9944.jpg" height="650" width="824" />
+<rendition size="small" src="bin/images/small/IMG_9944.jpg" height="520" width="659" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9944.jpg" height="76" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Clowning Cousins</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9E3A718F-98EA-47EE-8C83-1B27FBFB22A3" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9987.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_9987.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_9987.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9987.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Skyler and Zoey..</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E3FE51DC-28B3-4A44-8688-1C8AEE39810E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0020.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0020.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0020.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0020.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>...playing with Azure</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="00109ED1-1FBD-40BE-82BD-DEB6ADB8B8D7" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0056.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0056.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0056.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0056.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Hiking in the Cascades</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B6521A75-3E1D-47EC-8393-7EB06D9886B2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0179.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0179.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0179.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0179.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>At Home</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D7A64C13-F459-4AC0-9D8E-6CAA7D7266D0" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0315.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0315.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0315.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0315.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Theo playing with our neighbor Anya</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2DCFD759-59D5-4BBA-8221-765DB0D74772" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0355.jpg" height="850" width="1054" />
+<rendition size="medium" src="bin/images/medium/IMG_0355.jpg" height="650" width="806" />
+<rendition size="small" src="bin/images/small/IMG_0355.jpg" height="520" width="645" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0355.jpg" height="77" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Isaac reads to Azure</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3FA8A9A3-684D-42C4-90B4-BF42011CB8F1" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0048.jpg" height="850" width="1133" />
+<rendition size="medium" src="bin/images/medium/IMG_0048.jpg" height="650" width="867" />
+<rendition size="small" src="bin/images/small/IMG_0048.jpg" height="520" width="693" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0048.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>Procession of the Species - Olympia, WA</title>
+<description>representing ladybugs...</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8326F37A-B6C3-4D09-A00E-1C9E7D063764" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0474.jpg" height="850" width="1062" />
+<rendition size="medium" src="bin/images/medium/IMG_0474.jpg" height="650" width="812" />
+<rendition size="small" src="bin/images/small/IMG_0474.jpg" height="520" width="650" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0474.jpg" height="77" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>...and bees!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FCB43B3B-37CC-4003-BC23-7671B5339AD4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0370.jpg" height="850" width="567" />
+<rendition size="medium" src="bin/images/medium/IMG_0370.jpg" height="650" width="433" />
+<rendition size="small" src="bin/images/small/IMG_0370.jpg" height="520" width="347" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0370.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Azure delights a swarm of bicycling bees</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FA1D8DBB-5377-44B0-888B-1E070B645164" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0520.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0520.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0520.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0520.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>The Tide is Out</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5E30F5D4-5B21-4AE3-AB45-951015528F8C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0534.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0534.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0534.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0534.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Happy Day!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="564C8886-756B-4F34-AAE6-4A10598496AE" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0582.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0582.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0582.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0582.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>bright eyes</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="EDD6BB2E-D972-42CE-9066-A17E367DA1FD" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0601.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0601.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0601.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0601.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Azure loves trucks!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="CB391E44-32F1-4B1A-8143-31BD4FE00B71" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0653.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0653.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0653.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0653.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>Cousins gather at Angelo's graduation</title>
+<description>Zoey, Theo, Tessa, Angelo, Tony, Azure and Skyler</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7BB7ABB6-9D62-4142-B888-665E54704DE0" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0750.jpg" height="850" width="1172" />
+<rendition size="medium" src="bin/images/medium/IMG_0750.jpg" height="650" width="896" />
+<rendition size="small" src="bin/images/small/IMG_0750.jpg" height="520" width="717" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0750.jpg" height="70" width="96" />
+</renditions>
+</item>
+<item>
+<title>Albuquerque 2008</title>
+<description>What a group!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D95D27FA-2453-40A4-B654-563ED559767E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/New_Mexico_Group_Shot_2008_copy.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/New_Mexico_Group_Shot_2008_copy.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/New_Mexico_Group_Shot_2008_copy.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/New_Mexico_Group_Shot_2008_copy.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Tony takes Azure under his wing</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DDB90EC7-FC3B-4288-BC4F-51DFF564007C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/Tony_Azure_digging_copy.jpg" height="850" width="1213" />
+<rendition size="medium" src="bin/images/medium/Tony_Azure_digging_copy.jpg" height="650" width="927" />
+<rendition size="small" src="bin/images/small/Tony_Azure_digging_copy.jpg" height="520" width="742" />
+<rendition size="thumb" src="bin/images/thumb/Tony_Azure_digging_copy.jpg" height="67" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Trucks and Dirt!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7876EA9D-0F1E-436E-9605-95F0A7CF0E42" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/graduationfamily_146.jpg" height="850" width="1238" />
+<rendition size="medium" src="bin/images/medium/graduationfamily_146.jpg" height="650" width="946" />
+<rendition size="small" src="bin/images/small/graduationfamily_146.jpg" height="520" width="757" />
+<rendition size="thumb" src="bin/images/thumb/graduationfamily_146.jpg" height="66" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>washing hair</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="914A4D6F-2B7E-4823-B4B7-AF7F90FF415B" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0876.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0876.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0876.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0876.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>fun in the tub!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A308941B-DEB9-4F47-A9E4-C8AA42B72006" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0905.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0905.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0905.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0905.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>fun in the sun</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9D87F904-4FEE-4F1A-ADA1-F88B96053024" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0957.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0957.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0957.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0957.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Theo loves to splash</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F3E3ACE0-B470-480E-B348-8ED3E60CBEA5" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0968.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_0968.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_0968.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0968.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Paul plays with Dawson, Azure and Theo</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="11DF1CC0-DAA1-4B9F-872F-9F7CBB167533" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1005.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_1005.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_1005.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1005.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>July in Boulder</title>
+<description>Staying at Chautauqua Park for cousin Ian's wedding</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="74A1CE78-596F-474F-A9C1-456FBAE00493" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/Theo_Freddi_Why_Can_t_I_Play.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/Theo_Freddi_Why_Can_t_I_Play.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/Theo_Freddi_Why_Can_t_I_Play.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/Theo_Freddi_Why_Can_t_I_Play.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>At the wedding</title>
+<description>Azure is most enthralled with the tractors...</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FD53CB08-9518-4F4F-81D7-93B5B35F9524" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1254.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_1254.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_1254.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1254.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>...and dancing with Tiger Lilly!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9E6BEC65-F017-473A-8A3B-1177712AC32C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1264.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_1264.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_1264.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1264.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Theo likes the flowers!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="30D6070D-F740-467D-9941-5E7CD16C0544" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/Ian_s_wedding_5653.jpg" height="821" width="1275" />
+<rendition size="medium" src="bin/images/medium/Ian_s_wedding_5653.jpg" height="650" width="1009" />
+<rendition size="small" src="bin/images/small/Ian_s_wedding_5653.jpg" height="520" width="807" />
+<rendition size="thumb" src="bin/images/thumb/Ian_s_wedding_5653.jpg" height="62" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Splashing in the Pool!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="95856ACB-8598-42BE-B3D5-1B333504AC52" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/Brandon_Azure_Theo_Kristen_Pool_Ian_s_wedding.jpg" height="782" width="1275" />
+<rendition size="medium" src="bin/images/medium/Brandon_Azure_Theo_Kristen_Pool_Ian_s_wedding.jpg" height="650" width="1060" />
+<rendition size="small" src="bin/images/small/Brandon_Azure_Theo_Kristen_Pool_Ian_s_wedding.jpg" height="520" width="848" />
+<rendition size="thumb" src="bin/images/thumb/Brandon_Azure_Theo_Kristen_Pool_Ian_s_wedding.jpg" height="59" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Firefighters at the park</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="AEFDB46C-8F37-41CE-BDCF-A817F8AD3947" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/Ian_s_wedding_5561.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/Ian_s_wedding_5561.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/Ian_s_wedding_5561.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/Ian_s_wedding_5561.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>cousins hamming it up on stage in a Boulder park</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4DA47ADF-12BC-4009-A39F-AC1A8F936998" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1315.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_1315.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_1315.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1315.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>back at home, the boys dig in the garden and get very dirty!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C2C43448-A087-4B5A-9FC6-930CF4712628" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1328.jpg" height="850" width="567" />
+<rendition size="medium" src="bin/images/medium/IMG_1328.jpg" height="650" width="433" />
+<rendition size="small" src="bin/images/small/IMG_1328.jpg" height="520" width="347" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1328.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>snack time with our Little Peppers friends - our weekly tot group</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5ED76D47-301A-4273-A198-FBCE6C678DA4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1350.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_1350.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_1350.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1350.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Cape Cod in August</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="30EBF18B-B525-4C3E-BA6A-D1768B7C66E5" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1452.jpg" height="850" width="1269" />
+<rendition size="medium" src="bin/images/medium/IMG_1452.jpg" height="650" width="971" />
+<rendition size="small" src="bin/images/small/IMG_1452.jpg" height="520" width="777" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1452.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>with the Folks</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="998A9820-BB38-496B-A5E6-982FCEC25D94" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/Cape_Cod_2008_6406.jpg" height="850" width="1144" />
+<rendition size="medium" src="bin/images/medium/Cape_Cod_2008_6406.jpg" height="650" width="875" />
+<rendition size="small" src="bin/images/small/Cape_Cod_2008_6406.jpg" height="520" width="700" />
+<rendition size="thumb" src="bin/images/thumb/Cape_Cod_2008_6406.jpg" height="71" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Theo's 1st Birthday!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2C348C6B-EC33-46A1-BBD4-A6FA5BCED51C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/Cape_Cod_2008_6467.jpg" height="850" width="1037" />
+<rendition size="medium" src="bin/images/medium/Cape_Cod_2008_6467.jpg" height="650" width="793" />
+<rendition size="small" src="bin/images/small/Cape_Cod_2008_6467.jpg" height="520" width="635" />
+<rendition size="thumb" src="bin/images/thumb/Cape_Cod_2008_6467.jpg" height="79" width="96" />
+</renditions>
+</item>
+<item>
+<title>August 17, 2008</title>
+<description>Freddi and Theo celebrate their shared birthday</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BDCD0C06-0E67-47B9-96DB-8D929BA8F811" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1398.jpg" height="850" width="692" />
+<rendition size="medium" src="bin/images/medium/IMG_1398.jpg" height="650" width="529" />
+<rendition size="small" src="bin/images/small/IMG_1398.jpg" height="520" width="423" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1398.jpg" height="96" width="78" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Let me blow it out!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="60038CA3-66D7-4A41-AF21-FBF83EE5E5F9" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/Cape_Cod_2008_2292.jpg" height="850" width="1133" />
+<rendition size="medium" src="bin/images/medium/Cape_Cod_2008_2292.jpg" height="650" width="867" />
+<rendition size="small" src="bin/images/small/Cape_Cod_2008_2292.jpg" height="520" width="693" />
+<rendition size="thumb" src="bin/images/thumb/Cape_Cod_2008_2292.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>opening presents together</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4752B39C-D5DD-4872-BF43-A9D8B62B6926" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1405.jpg" height="850" width="1133" />
+<rendition size="medium" src="bin/images/medium/IMG_1405.jpg" height="650" width="867" />
+<rendition size="small" src="bin/images/small/IMG_1405.jpg" height="520" width="693" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1405.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Did you see that, he took my camera ! ! !</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="691D2630-FF5A-4473-8AE1-8DAE1A2C303D" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/Cape_Cod_2008_6425.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/Cape_Cod_2008_6425.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/Cape_Cod_2008_6425.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/Cape_Cod_2008_6425.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>The family</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="FFCBEA69-0793-4D65-B2C2-E4B012FBCF45" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/Cape_Cod_2008_6446.jpg" height="850" width="1203" />
+<rendition size="medium" src="bin/images/medium/Cape_Cod_2008_6446.jpg" height="650" width="920" />
+<rendition size="small" src="bin/images/small/Cape_Cod_2008_6446.jpg" height="520" width="736" />
+<rendition size="thumb" src="bin/images/thumb/Cape_Cod_2008_6446.jpg" height="68" width="96" />
+</renditions>
+</item>
+<item>
+<title>Azure and Papa Bill on the water</title>
+<description>After the Cape we spent a week at Bill and Helene's home on Wolf Lake in the Catskills</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D5A6EB24-A3C4-4541-942A-8642B0118B4A" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1522.jpg" height="850" width="1221" />
+<rendition size="medium" src="bin/images/medium/IMG_1522.jpg" height="650" width="933" />
+<rendition size="small" src="bin/images/small/IMG_1522.jpg" height="520" width="747" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1522.jpg" height="67" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Theo likes the lake house!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2A7E0442-2FE8-499B-A3EE-FB02DC502205" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1497.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_1497.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_1497.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1497.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>afternoon nap at Papa Bill's</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7700BEA4-FB32-42BF-97DD-EB6912EB33E7" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1469.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_1469.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_1469.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1469.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>Phil reads to Azure</title>
+<description>Phil and Mary visited from Albany while we were there</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BCCF7346-A195-4DAB-8F13-6BEAB1C07976" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/161.jpg" height="850" width="1133" />
+<rendition size="medium" src="bin/images/medium/161.jpg" height="650" width="867" />
+<rendition size="small" src="bin/images/small/161.jpg" height="520" width="693" />
+<rendition size="thumb" src="bin/images/thumb/161.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>That's my tree!</title>
+<description>Papa Bill and Grandma Helene name a tree for Azure at their house</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7746A1C0-F0A1-43FD-AC5A-38A231707101" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/170.jpg" height="850" width="638" />
+<rendition size="medium" src="bin/images/medium/170.jpg" height="650" width="487" />
+<rendition size="small" src="bin/images/small/170.jpg" height="520" width="390" />
+<rendition size="thumb" src="bin/images/thumb/170.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title>Theo and Olivia</title>
+<description>In NY we also visited Kristen's college friend Vicki and her family</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="49643B60-A975-4AF4-98DE-F243066A7136" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/theooliviawagon.jpg" height="850" width="1133" />
+<rendition size="medium" src="bin/images/medium/theooliviawagon.jpg" height="650" width="867" />
+<rendition size="small" src="bin/images/small/theooliviawagon.jpg" height="520" width="693" />
+<rendition size="thumb" src="bin/images/thumb/theooliviawagon.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Taking the ferry to Bremerton</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3A89DA5D-C60D-465A-A934-8C60C3BE9486" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1586.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_1586.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_1586.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1586.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>At the Airshow</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7710A4A9-2DA0-47E5-BC0E-3DACC2E4BD86" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1640.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_1640.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_1640.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1640.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Pilot Azure</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6A288201-D910-4625-9447-8D2B1E7C985F" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1670.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_1670.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_1670.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1670.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Hiking in Seattle</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="974BD97A-B4AA-4FD4-A7E1-878BC11C45FB" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1806.jpg" height="850" width="567" />
+<rendition size="medium" src="bin/images/medium/IMG_1806.jpg" height="650" width="434" />
+<rendition size="small" src="bin/images/small/IMG_1806.jpg" height="520" width="347" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1806.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Theo loves picking blackberries!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5EF2EF6C-BE43-41DA-A531-508A44B74638" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1824.jpg" height="850" width="601" />
+<rendition size="medium" src="bin/images/medium/IMG_1824.jpg" height="650" width="459" />
+<rendition size="small" src="bin/images/small/IMG_1824.jpg" height="520" width="367" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1824.jpg" height="96" width="68" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Pirate Azure checks his mail</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A0F40B02-6AC2-4188-BB99-EB538A9D35B0" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1885.jpg" height="850" width="581" />
+<rendition size="medium" src="bin/images/medium/IMG_1885.jpg" height="650" width="444" />
+<rendition size="small" src="bin/images/small/IMG_1885.jpg" height="520" width="355" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1885.jpg" height="96" width="66" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Cutest Monkey!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="E71F0291-9ABD-4C27-9AA6-CB01BD8F8468" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1889.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_1889.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_1889.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1889.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Theo makes animal sounds at the zoo</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9EFB1EAD-C550-4D0A-B0B0-BC2BD4927F57" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_1978.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_1978.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_1978.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_1978.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>1st Day of School!</title>
+<description>Azure and Theo both attended Co-op preschool this year; Azure with Mom and Theo with Dad</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1B82839E-A416-4436-A79F-0BF37AD6F5B5" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2043.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2043.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2043.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2043.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>The family that plays together..</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="7DD7A032-E32A-4A75-9198-DE0C97F5DAA4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2132.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2132.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2132.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2132.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Rock On!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0A76F06C-2BFC-4490-8073-9D3340C2C327" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2055.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2055.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2055.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2055.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Don't touch my babies!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B3CDAB1B-8B94-4167-9802-D56CA6E79921" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2116.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2116.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2116.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2116.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>Albuquerque Balloon Fiesta</title>
+<description>Aunt Susan shows Theo how the balloons take off</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="06CF9BD1-CE7C-460E-B1E2-7BE8CD52C740" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/078.jpg" height="850" width="638" />
+<rendition size="medium" src="bin/images/medium/078.jpg" height="650" width="488" />
+<rendition size="small" src="bin/images/small/078.jpg" height="520" width="390" />
+<rendition size="thumb" src="bin/images/thumb/078.jpg" height="96" width="72" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Mesmerized</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4A36EFFE-273D-48BA-8C2B-86BA6BADD2D0" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/074.jpg" height="850" width="1133" />
+<rendition size="medium" src="bin/images/medium/074.jpg" height="650" width="867" />
+<rendition size="small" src="bin/images/small/074.jpg" height="520" width="693" />
+<rendition size="thumb" src="bin/images/thumb/074.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Theo wants to take one home</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2218FF00-5A17-47C4-9B34-00F308057F52" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/082.jpg" height="850" width="1133" />
+<rendition size="medium" src="bin/images/medium/082.jpg" height="650" width="867" />
+<rendition size="small" src="bin/images/small/082.jpg" height="520" width="693" />
+<rendition size="thumb" src="bin/images/thumb/082.jpg" height="72" width="96" />
+</renditions>
+</item>
+<item>
+<title>Cousin Tony is like a big brother</title>
+<description>thank you Tessa for the terrific photos!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="106CA483-D86B-40F6-826C-6963459DBFFA" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/094.jpg" height="850" width="857" />
+<rendition size="medium" src="bin/images/medium/094.jpg" height="650" width="656" />
+<rendition size="small" src="bin/images/small/094.jpg" height="520" width="525" />
+<rendition size="thumb" src="bin/images/thumb/094.jpg" height="95" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>roughhousing</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="05C961A4-6B02-4C1D-8F26-DC5744A16CCC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2149.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2149.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2149.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2149.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Azure strikes a confident pose</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B1AED826-C032-44D1-9D63-EDBB17E90921" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2172.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2172.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2172.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2172.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>At the Pumpkin Patch</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="60B1D0A0-B2A4-4931-852B-DAD8A97E76D6" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2242.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2242.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2242.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2242.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>I choose this one!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C60616F8-AA97-4B67-9C88-7096FBE03C66" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2254.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2254.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2254.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2254.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Ha!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="861A000D-D0F1-42BB-959C-9C1DA5FBCE7C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2371.jpg" height="850" width="684" />
+<rendition size="medium" src="bin/images/medium/IMG_2371.jpg" height="650" width="523" />
+<rendition size="small" src="bin/images/small/IMG_2371.jpg" height="520" width="418" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2371.jpg" height="96" width="77" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>brotherly love</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="CB84B61F-E705-4C46-BEDA-9B8F885BFA27" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2374.jpg" height="850" width="578" />
+<rendition size="medium" src="bin/images/medium/IMG_2374.jpg" height="650" width="442" />
+<rendition size="small" src="bin/images/small/IMG_2374.jpg" height="520" width="354" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2374.jpg" height="96" width="65" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Getting ready for Halloween</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="9C229857-2969-4255-A12E-EBE26528CA55" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2589.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2589.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2589.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2589.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Skunk Kiss</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B8584222-1D92-4A70-ABB7-D61D9392F0AA" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2607.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2607.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2607.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2607.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Duet</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="838D8C48-2C40-4084-BBBC-81B9FB6AD9CA" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2698.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2698.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2698.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2698.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Trick or Treat!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3B6D7D7A-797A-4001-A677-C8F402D655F1" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2784.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2784.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2784.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2784.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Boo!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="26DA88D8-9ECE-4B55-9D5D-0C28D9CA0E5D" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2799.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2799.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2799.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2799.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Azure concentrates</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="94393137-CA22-4A83-94F2-A78659EEE6F2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2841.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2841.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2841.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2841.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Hauling off the pumpkins</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="947F8024-5378-465F-B545-36B2317915DE" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2858.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2858.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2858.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2858.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>Following in Dallas's footsteps</title>
+<description>This airplane was handed down by cousin Skyler - his grandpa made it!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B1ED8CA7-890A-4C6F-BB14-6A5751AA1D04" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2926.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2926.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2926.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2926.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>playing with Ruby</title>
+<description>Johanna and Sheldon's daughter.  Too bad we don't live with them anymore!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8A12C60B-18CE-49DB-B453-6158754B9C9F" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2353.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2353.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2353.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2353.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>beautiful boy</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="81B56E68-EF8E-498D-95C8-AA652E8D97D1" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3294.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_3294.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_3294.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3294.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>Azure watches intently</title>
+<description>and waits his turn for his first haircut</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="551B62BB-0E72-4D25-821E-A4E1BBC4A456" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3420.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_3420.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_3420.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3420.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>Just the bangs, please!</title>
+<description>Azure sits very still while our friend Angel gives him a trim.</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6F437843-E44A-4FD6-B64C-987EE6CCAF01" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3433.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_3433.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_3433.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3433.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>I did it!</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="CBBFA56E-4C73-47D8-AA96-941E5BEC6251" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3464.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_3464.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_3464.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3464.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>Thanksgiving </title>
+<description>"camping" at Lincoln Park in West Seattle where we live.</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B930A8AC-75CA-4297-9FBA-6E06FD1D77E4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3301.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_3301.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_3301.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3301.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Theo likes to hug the trees</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="757B893F-F606-4178-AF95-12390D430CE0" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3391.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_3391.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_3391.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3391.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>on the playground</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1C907A1A-B1AB-432F-8740-750E93E04D51" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3093.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_3093.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_3093.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3093.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>yep, that's my brother</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2E20D9D8-B9FA-4C15-A99C-86417AC88FEC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3255.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_3255.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_3255.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3255.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>amidst the rosemary</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D095D3D3-8ABA-4B1F-BB03-6F3233C6CA20" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2974.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_2974.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_2974.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2974.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description>Roar!</description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0844ABA1-46BB-4C7E-AFD3-826617A933C7" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3207.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_3207.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_3207.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3207.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>Happy New Year!</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="ABC42EBF-2AB6-4750-9D03-5E7A7D1C5397" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3137.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_3137.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_3137.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3137.jpg" height="64" width="96" />
+</renditions>
+</item>
+</media>
+</mediaGroup>

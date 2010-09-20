@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<mediaGroup>
+<amgVersion version="1.3" />
+<groupInfo>
+<author></author>
+<authorApplication>Adobe Lightroom 1.0 Beta 4</authorApplication>
+<creationDate>06/17/07, 11:33:27 AM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3" />
+<groupData groupID="" groupName="" />
+<authorID></authorID>
+<custom>
+<groupTitle>kristen &amp; brandon</groupTitle>
+<groupDescription></groupDescription>
+<siteTitle>Olympic Peninsula, 2007</siteTitle>
+<contactName></contactName>
+<contactEmail></contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize size="thumb" maxwidth="96" maxheight="96" />
+<imageSize size="small" maxwidth="800" maxheight="450" />
+<imageSize size="medium" maxwidth="1040" maxheight="520" />
+<imageSize size="large" maxwidth="1150" maxheight="650" />
+</sizes>
+<media totalGallerySize="24">
+<item>
+<title>May 25, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="CBB4143E-3E9E-4D9E-97C9-8FBA8CE26329" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2618.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_2618.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_2618.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2618.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 26, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="BEC8F09D-219F-4BF7-9E11-DA0FECBC5184" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2686.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_2686.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_2686.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2686.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 26, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="8BE33AE1-7D1B-48C2-A903-82731DAF2BC5" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2688.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_2688.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_2688.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2688.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 26, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C85133CD-5DCD-43A3-989E-8850A9802317" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2766.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_2766.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_2766.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2766.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 26, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D1194C57-8FD2-4F31-B1B8-E6C1AB0A92B2" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2835.jpg" height="650" width="433" />
+<rendition size="medium" src="bin/images/medium/IMG_2835.jpg" height="520" width="346" />
+<rendition size="small" src="bin/images/small/IMG_2835.jpg" height="450" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2835.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title>May 26, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="ECF1DBA8-CA35-4B1B-BDBE-B5288335A76E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2841.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_2841.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_2841.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2841.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 26, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="11CD1B3C-90B5-4F45-A1BE-B65A34DEDEE7" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2905.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_2905.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_2905.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2905.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 26, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A65CF027-2597-49C7-968B-DAF37E1D5EE6" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2915.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_2915.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_2915.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2915.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1D5D592E-4049-4C65-9DFC-626393B816A4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_2975.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_2975.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_2975.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_2975.jpg" height="63" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C599372F-0277-4EED-AFEC-AF61B79DDF90" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3019.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_3019.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_3019.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3019.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="EE0C9666-3806-405A-ABB0-0582EB881E95" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3020.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_3020.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_3020.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3020.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D3406755-1246-4B02-8540-A1428939ACBB" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3038.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_3038.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_3038.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3038.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6131EE7D-4651-4AB4-A338-ADECB57B35A6" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3044.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_3044.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_3044.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3044.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="4C23ACC1-A75D-4B81-96A7-B0E3EFA005EC" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3053.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_3053.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_3053.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3053.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A2664E73-CDC0-4E2D-9B15-5D790FFF8FB4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3065.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_3065.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_3065.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3065.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="55D48533-E009-432E-AD23-627623980F83" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3068.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_3068.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_3068.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3068.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="C7102549-EB25-4A85-B510-5BF3ECD5FC32" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3139.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_3139.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_3139.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3139.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5C4DC72F-3A9F-46C6-B5FC-42893C9C381C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3181.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_3181.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_3181.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3181.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F1E39343-0AAA-4271-8772-FAB874657ED0" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3204.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_3204.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_3204.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3204.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="D7E13145-035C-4626-AE21-C604137D6F1C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3210.jpg" height="650" width="433" />
+<rendition size="medium" src="bin/images/medium/IMG_3210.jpg" height="520" width="346" />
+<rendition size="small" src="bin/images/small/IMG_3210.jpg" height="450" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3210.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title>May 27, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="27556ACD-2FAD-42D5-BEC3-43DB8AFBD32E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3212.jpg" height="650" width="433" />
+<rendition size="medium" src="bin/images/medium/IMG_3212.jpg" height="520" width="346" />
+<rendition size="small" src="bin/images/small/IMG_3212.jpg" height="450" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3212.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title>May 28, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="B4050317-C681-46E3-8174-347D9FBE8580" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3215.jpg" height="650" width="433" />
+<rendition size="medium" src="bin/images/medium/IMG_3215.jpg" height="520" width="346" />
+<rendition size="small" src="bin/images/small/IMG_3215.jpg" height="450" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3215.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title>May 28, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="617B823D-606E-4D18-81F8-C27AD8B49D14" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3229.jpg" height="650" width="433" />
+<rendition size="medium" src="bin/images/medium/IMG_3229.jpg" height="520" width="346" />
+<rendition size="small" src="bin/images/small/IMG_3229.jpg" height="450" width="300" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3229.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title>May 28, 2007</title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A434DB91-8FC6-4F88-B3A2-0C8DE316AA46" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3233.jpg" height="650" width="975" />
+<rendition size="medium" src="bin/images/medium/IMG_3233.jpg" height="520" width="780" />
+<rendition size="small" src="bin/images/small/IMG_3233.jpg" height="450" width="675" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3233.jpg" height="64" width="96" />
+</renditions>
+</item>
+</media>
+</mediaGroup>

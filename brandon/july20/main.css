@@ -1,0 +1,97 @@
+body {
+	background-color: #008080;
+	color: #FFFBF0;
+}
+a {
+	background-color: transparent;
+	color: #C0DCC0;
+}
+a:visited {
+	background-color: transparent;
+	color: #C0DCC0;
+}
+a:hover {
+	background-color: transparent;
+	color: #C0DCC0;
+}
+h1 {
+	font-family: tahoma, arial, helvetica, sans-serif;
+	text-align: center;
+	color: #FFFBF0;
+	background-color: transparent;
+}
+h2 {
+	font-family: tahoma, arial, helvetica, sans-serif;
+	text-align: center;
+	color: #FFFBF0;
+	background-color: transparent;
+}
+
+div.index {
+	text-align: center;
+}
+div.index table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+div.navigation {
+	text-align: center;
+}
+div.navigation table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+div.photograph {
+	text-align: center;
+}
+div.photograph table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+td.thumbcell {
+	width: 200px;
+}
+div.title {
+	font-weight: bold;
+	font-family: tahoma, arial, helvetica, sans-serif;
+	text-align: right;
+	font-size: 1.2em;
+	color: #FFFBF0;
+	background-color: transparent;
+}
+.caption {
+	font-family: tahoma, arial, helvetica, sans-serif;
+	text-align: center;
+	font-size: 0.8em;
+	color: #FFFBF0;
+	background-color: transparent;
+}
+.footnote {
+	font-size: 0.6em;
+	text-align: right;
+	font-family: tahoma, arial, helvetica, sans-serif;
+}
+.textleft {
+	text-align: left;
+	font-family: tahoma, arial, helvetica, sans-serif;
+	font-size: 0.8em;
+	color: #FFFBF0;
+	background-color: transparent;
+}
+.textright {
+	text-align: right;
+	font-family: tahoma, arial, helvetica, sans-serif;
+	font-size: 0.8em;
+	color: #FFFBF0;
+	background-color: transparent;
+}
+.textcenter {
+	text-align: center;
+	font-family: tahoma, arial, helvetica, sans-serif;
+	font-size: 0.8em;
+	color: #FFFBF0;
+	background-color: transparent;
+}

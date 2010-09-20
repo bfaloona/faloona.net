@@ -1,0 +1,108 @@
+<galleryStyle xmlns="http://ns.adobe.com/AMG/1.2/">
+<styleInfo>
+<amgVersion>1.3</amgVersion>
+<thumbnailPath></thumbnailPath>
+<previewPath></previewPath>
+<styleName>Test</styleName>
+<styleDescription></styleDescription>
+<galleryMaker></galleryMaker>
+<creationDate>05/01/07, 11:45:55 AM</creationDate>
+</styleInfo>
+<appearance xmlns="http://ns.adobe.com/AMG/FlashGallery/style/1.0/">
+<playOptions playMode="pause"/>
+<galleryInfo>
+<galleryInfoTextField height="1200.00" width="635.00"/>
+<galleryInfoText fontFamily="Myriad Web Pro" linkColor="788FAC" align="left" color="848484" size="12.00"/>
+<galleryInfoBgColor color="FAFAFA" alpha="0.00"/>
+<galleryInfoScrollBars>
+<galleryInfoScrollBarFill alpha="0.00" color="2C2C2C"/>
+<galleryInfoScrollBarBorder alpha="100.00" color="E4E3E3"/>
+<galleryInfoScrollBarFore alpha="100.00" color="CAC9C9"/>
+</galleryInfoScrollBars>
+<galleryInfoBorder alpha="100.00" color="A1A1A1"/>
+</galleryInfo>
+<slideTransitions slideDuration="5.00" transitionDuration=".75" transition="fade"/>
+<contactInfo>
+<contactInfoText color="A1A1A1" alpha="100.00" fontFamily="Myriad Web Pro" size="11.00"/>
+</contactInfo>
+<bandWidthOptions connection="broadband"/>
+<slideshow>
+<slideshowButtons>
+<slideshowBtnFore color="FAFAFA" alpha="100.00"/>
+<slideshowCtrlText color="A1A1A1" fontFamily="Myriad Web Pro" alpha="100.00" size="12.00"/>
+<slideshowBtnBackground color="A1A1A1" alpha="100.00"/>
+<slideshowBtnBorder color="FAFAFA" alpha="100.00"/>
+</slideshowButtons>
+<videoCtrl>
+<videoCtrlBgColor alpha="95.00" color="FAFAFA"/>
+<videoDropShadow enabled="false"/>
+<videoCtrlBtnFore color="5C5C5C" alpha="100.00"/>
+<videoCtrlBorder color="ADADAD" alpha="100.00" width="1.00"/>
+<videoCtrlBtnBorder color="ADADAD" alpha="100.00"/>
+<videoCtrlBtnBackground color="C8C8C8" alpha="100.00"/>
+</videoCtrl>
+<slideshowBorder color="FAFAFA" alpha="100.00"/>
+<images>
+<imageBorder color="FAFAFA" alpha="100.00" width="0.00"/>
+<imageDropShadow enabled="false"/>
+</images>
+<slideshowMetadata>
+<metadataField titles="true" height="36.00" captions="true"/>
+<metadataFieldText fontFamily="Myriad Web Pro" color="A1A1A1" autoSize="true" alpha="100.00" size="12.00"/>
+</slideshowMetadata>
+<slideshowBgColor color="FAFAFA" alpha="0.00"/>
+</slideshow>
+<headerBar>
+<groupTitle color="A1A1A1" fontFamily="Myriad Web Pro" alpha="100.00" size="16.00"/>
+<headerBarEnabled enabled="true"/>
+<pageTitleImg visible="false" src="resources/logo.png"/>
+<pageTitle color="A1A1A1" fontFamily="Myriad Web Pro" alpha="100.00" size="20.00"/>
+<headerBarColor color="FAFAFA" alpha="100.00"/>
+</headerBar>
+<menuBar>
+<menuBorder alpha="100.00" color="A1A1A1"/>
+<menuBarEnabled enabled="true"/>
+<menuHover alpha="5.00" color="000000"/>
+<menuText alpha="100.00" color="A1A1A1"/>
+<menuBgColor alpha="100.00" color="FAFAFA"/>
+</menuBar>
+<mediaPosition y="0.00" positionType="auto" fitAtStart="true" videoScale="upDown" imageScale="fitToScreen" x="0.00" height="264.00" width="360.00"/>
+<metadataOptions metadataPosition="underPhotos"/>
+<viewOptions startingView="galleryScrollingLeft"/>
+<background>
+<backgroundBgImg alpha="100.00" src=""/>
+<backgroundBgColor alpha="100.00" color="FAFAFA"/>
+</background>
+<thumbnailView>
+<thumbnailViewBorder color="FAFAFA" alpha="100.00"/>
+<thumbnailViewBgColor alpha="0.00" color="FAFAFA"/>
+<thumbnails>
+<thumbHover color="666666" alpha="100.00"/>
+<thumbSelected color="A1A1A1" alpha="100.00"/>
+<thumbDropShadow enabled="false"/>
+<thumbBorder color="FAFAFA" alpha="100.00" width="2.00"/>
+</thumbnails>
+<thumbnailViewScrollBars>
+<thumbnailViewScrollBarFill color="E4E3E3" alpha="0.00"/>
+<thumbnailViewScrollBarBorder alpha="100.00" color="E4E3E3"/>
+<thumbnailViewScrollBarFore color="CAC9C9" alpha="100.00"/>
+</thumbnailViewScrollBars>
+<thumbnailViewControls>
+<thumbViewBtnBackground alpha="100.00" color="FAFAFA"/>
+<thumbViewCtrlText alpha="100.00" color="A1A1A1"/>
+<thumbViewBtnFore color="A1A1A1" alpha="100.00"/>
+<thumbViewBtnBorder color="A1A1A1" alpha="100.00"/>
+</thumbnailViewControls>
+</thumbnailView>
+<metadataView>
+<metadataViewBtnFore color="686868" alpha="100.00"/>
+<metadataViewBgColor color="FAFAFA" alpha="50.00"/>
+<metadataViewBorder alpha="50.00" color="FAFAFA"/>
+<metadataViewBtnBorder color="A1A1A1" alpha="100.00"/>
+<metadataViewBtnBackground alpha="100.00" color="C8C8C8"/>
+<metadataViewField titles="true" captions="true" widthPercentage=".25"/>
+<metadataViewText fontFamily="Myriad Web Pro" linkColor="788FAC" align="left" color="686868" size="12.00"/>
+<metadataViewTitle fontFamily="Myriad Web Pro" linkColor="9DAEC1" align="left" color="686868" size="14.00"/>
+</metadataView>
+</appearance>
+</galleryStyle>

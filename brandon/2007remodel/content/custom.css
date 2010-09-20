@@ -1,0 +1,118 @@
+#previewFull {
+  background-color: #000000 !important;
+  width: 482px !important;
+  color: inherit;
+}
+
+#liveUpdateContactInfo {
+  color: #D7D7D7 !important;
+  background-color: inherit;
+}
+
+.borderRightDotted {
+  border-right: 1px dotted #010101 !important;
+}
+
+.logo {
+  display: none !important;
+}
+
+#liveUpdateCollectionDescription {
+  color: #D7D7D7 !important;
+  background-color: inherit;
+}
+
+.detailNav, .detailLinks, #detailCaption, #detailTitle {
+  color: #D7D7D7 !important;
+  background-color: inherit;
+}
+
+.emptyThumbnail {
+  background-color: #000000 !important;
+  color: inherit;
+}
+
+.thumbnail {
+  background-color: #000000 !important;
+  color: inherit;
+}
+
+.previewFullImage {
+  height: 458px !important;
+  width: 482px !important;
+}
+
+#stage2 {
+  width: 484px !important;
+}
+
+.itemNumber {
+  display: none !important;
+  color: #404040 !important;
+  background-color: inherit;
+}
+
+#content {
+  background-color: #000000 !important;
+  color: inherit;
+}
+
+.borderTopLeft {
+  border-top: 1px solid #010101 !important;
+  border-left: 1px solid #010101 !important;
+}
+
+#stage {
+  width: 484px !important;
+}
+
+.caption {
+  color: #D7D7D7 !important;
+  background-color: inherit;
+}
+
+#wrapper2 {
+  width: 484px !important;
+}
+
+.borderBottomRight {
+  border-right: 1px solid #010101 !important;
+  border-bottom: 1px solid #010101 !important;
+}
+
+#wrapper {
+  width: 484px !important;
+}
+
+#liveUpdateCollectionTitle {
+  color: #D7D7D7 !important;
+  background-color: inherit;
+}
+
+.paginationLinks, .pagination, #liveUpdatePagination {
+  color: #D7D7D7 !important;
+  background-color: inherit;
+}
+
+.selectedThumbnail, .thumbnail:hover {
+  background-color: #393939 !important;
+  color: inherit;
+}
+
+#liveUpdateSiteTitle {
+  color: #D7D7D7 !important;
+  background-color: inherit;
+}
+
+.borderBottom {
+  border-bottom: 1px solid #010101 !important;
+}
+
+.borderRight {
+  border-right: 1px solid #010101 !important;
+}
+
+body {
+  background-color: #000000 !important;
+  color: inherit;
+}

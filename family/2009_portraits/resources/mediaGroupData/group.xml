@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<mediaGroup>
+<amgVersion version="1.3" />
+<groupInfo>
+<author></author>
+<authorApplication>Adobe Lightroom 1.0</authorApplication>
+<creationDate>12/16/09, 08:03:51 AM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3" />
+<groupData groupID="" groupName="" />
+<authorID></authorID>
+<custom>
+<groupTitle>2009 - A Few Favorite Photos</groupTitle>
+<groupDescription>Faloona / Walsh Family</groupDescription>
+<siteTitle></siteTitle>
+<contactName></contactName>
+<contactEmail></contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize size="thumb" maxwidth="96" maxheight="96" />
+<imageSize size="small" maxwidth="1040" maxheight="520" />
+<imageSize size="medium" maxwidth="1150" maxheight="650" />
+<imageSize size="large" maxwidth="1275" maxheight="850" />
+</sizes>
+<media totalGallerySize="16">
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1C907A1A-B1AB-432F-8740-750E93E04D51" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3093.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_3093.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_3093.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3093.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="01B45919-BFDE-43CA-ABE3-FA2B5AB79D53" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_6578.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_6578.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_6578.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_6578.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="6A0BD46B-0B9D-42A4-88B8-87DD5B741D94" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9111.jpg" height="850" width="1061" />
+<rendition size="medium" src="bin/images/medium/IMG_9111.jpg" height="650" width="811" />
+<rendition size="small" src="bin/images/small/IMG_9111.jpg" height="520" width="649" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9111.jpg" height="77" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="0EEA3CBF-2E61-445E-9A16-71A335B455F4" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_3703.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_3703.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_3703.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_3703.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="3D591A81-B572-4102-8DB0-5B2BE89779CA" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_4609.jpg" height="850" width="567" />
+<rendition size="medium" src="bin/images/medium/IMG_4609.jpg" height="650" width="433" />
+<rendition size="small" src="bin/images/small/IMG_4609.jpg" height="520" width="347" />
+<rendition size="thumb" src="bin/images/thumb/IMG_4609.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="2272F5AF-8DF9-4DCF-9A16-95E8797CF75F" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9318.jpg" height="850" width="871" />
+<rendition size="medium" src="bin/images/medium/IMG_9318.jpg" height="650" width="666" />
+<rendition size="small" src="bin/images/small/IMG_9318.jpg" height="520" width="533" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9318.jpg" height="94" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1A6636D7-1FC3-40CF-AC40-120777519C18" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_6344.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_6344.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_6344.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_6344.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="A3535CB9-44B4-4F2B-A456-473F08EE9903" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_7080.jpg" height="850" width="567" />
+<rendition size="medium" src="bin/images/medium/IMG_7080.jpg" height="650" width="433" />
+<rendition size="small" src="bin/images/small/IMG_7080.jpg" height="520" width="347" />
+<rendition size="thumb" src="bin/images/thumb/IMG_7080.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="5E237C15-0BC1-411C-B9FA-0BFCB4E9A16C" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_7143.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_7143.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_7143.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_7143.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="90CDE4C9-E649-4B8C-BDA3-153EBDD0B16A" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_9393.jpg" height="850" width="567" />
+<rendition size="medium" src="bin/images/medium/IMG_9393.jpg" height="650" width="433" />
+<rendition size="small" src="bin/images/small/IMG_9393.jpg" height="520" width="347" />
+<rendition size="thumb" src="bin/images/thumb/IMG_9393.jpg" height="96" width="64" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="36E56FD2-B954-407C-AE86-AACC0295A96E" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_5982.jpg" height="850" width="1178" />
+<rendition size="medium" src="bin/images/medium/IMG_5982.jpg" height="650" width="901" />
+<rendition size="small" src="bin/images/small/IMG_5982.jpg" height="520" width="720" />
+<rendition size="thumb" src="bin/images/thumb/IMG_5982.jpg" height="69" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="DE10FD45-70BC-4B9A-B1F6-AD071157A702" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_4182.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_4182.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_4182.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_4182.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="1C07FFEB-6618-42E6-AF50-58761AC5A57F" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_8900.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_8900.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_8900.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_8900.jpg" height="64" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="92F3B375-DDAB-4B2E-8520-AF02C81206B1" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_0108.jpg" height="850" width="611" />
+<rendition size="medium" src="bin/images/medium/IMG_0108.jpg" height="650" width="467" />
+<rendition size="small" src="bin/images/small/IMG_0108.jpg" height="520" width="374" />
+<rendition size="thumb" src="bin/images/thumb/IMG_0108.jpg" height="96" width="69" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="EC577814-E6A2-4D91-9D99-12D3E0E7025A" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_4159.jpg" height="850" width="1167" />
+<rendition size="medium" src="bin/images/medium/IMG_4159.jpg" height="650" width="893" />
+<rendition size="small" src="bin/images/small/IMG_4159.jpg" height="520" width="714" />
+<rendition size="thumb" src="bin/images/thumb/IMG_4159.jpg" height="70" width="96" />
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID dbtype="Adobe Lightroom 1.0" dbname="db1234" id="F13EA08F-BD67-4D8A-A781-1C8C8EF35CF5" />
+<mediaType category="image" format="jpeg" />
+<renditions>
+<rendition size="large" src="bin/images/large/IMG_8589.jpg" height="850" width="1275" />
+<rendition size="medium" src="bin/images/medium/IMG_8589.jpg" height="650" width="975" />
+<rendition size="small" src="bin/images/small/IMG_8589.jpg" height="520" width="780" />
+<rendition size="thumb" src="bin/images/thumb/IMG_8589.jpg" height="64" width="96" />
+</renditions>
+</item>
+</media>
+</mediaGroup>

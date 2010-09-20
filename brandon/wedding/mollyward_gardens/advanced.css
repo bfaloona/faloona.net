@@ -1,0 +1,13 @@
+img {
+	border-style: solid;
+	border-color: #800000;
+	border-width: 1px;
+}
+a img{
+  border-color: #808000;
+}
+img.selected {
+	border-style: double;
+	border-width: 5px;
+	border-color: #800000;
+}
